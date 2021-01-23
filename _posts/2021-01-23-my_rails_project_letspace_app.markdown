@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Rails Project: LetSpace App"
-date:       2021-01-23 15:38:42 +0000
+date:       2021-01-23 10:38:42 -0500
 permalink:  my_rails_project_letspace_app
 ---
 
